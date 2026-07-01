@@ -65,19 +65,3 @@ After downloading, place the file in the project root directory before running t
 * Add multilingual fake news detection support
 * Integrate real-time news verification APIs
 * Build an interactive user interface
-
----
-
-## 🤝 Contributing
-
-Contributions and suggestions are welcome. Feel free to fork the repository and submit improvements.
-
----
-
-## 👨‍💻 Author
-
-**Vasu Mittal**
-
-GitHub: https://github.com/Vasumitt123
-
-Interested in Artificial Intelligence, Machine Learning, and Data Science.
